@@ -1,4 +1,6 @@
-﻿namespace Better_Levels_Core.Models
+﻿using Npgsql;
+
+namespace Better_Levels_Core.Models
 {
     public class User
     {
